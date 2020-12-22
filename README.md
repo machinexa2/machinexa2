@@ -1,4 +1,5 @@
 ### Hi there 👋.  Machinexa's here :sunglasses:  
+* Join and talk: https://discord.gg/ejcswge
 
 <!--
 **machinexa2/machinexa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
